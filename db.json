@@ -1,0 +1,164 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "title": "데님 자켓",
+      "desc": "사계절 활용 가능한 기본 데님 자켓",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20250806/5296886/5296886_17562903089347_big.jpg?w=1200",
+      "recommended": true,
+      "tags": ["자켓", "캐주얼"]
+    },
+    {
+      "id": 2,
+      "title": "화이트 스니커즈",
+      "desc": "심플하고 어디에나 어울리는 스니커즈",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20250107/4703161/4703161_17364967313059_big.jpg?w=1200",
+      "recommended": false,
+      "tags": ["신발", "베이직"]
+    },
+    {
+      "id": 3,
+      "title": "트렌치 코트",
+      "desc": "세련된 봄·가을 필수 아우터",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20240830/4388100/4388100_17260346657386_big.jpg?w=1200",
+      "recommended": true,
+      "tags": ["코트", "포멀"]
+    },
+    {
+      "id": 4,
+      "title": "블랙 슬랙스",
+      "desc": "오피스룩과 캐주얼룩 모두 활용 가능",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20210511/1945319/1945319_2_big.jpg?w=1200",
+      "recommended": false,
+      "tags": ["팬츠", "모던"]
+    },
+    {
+      "id": 5,
+      "title": "가죽 라이더 자켓",
+      "desc": "시크한 무드의 가죽 라이더",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20250723/5266738/5266738_17569541237093_big.jpg?w=1200",
+      "recommended": true,
+      "tags": ["자켓", "시크"]
+    },
+    {
+      "id": 6,
+      "title": "니트 가디건",
+      "desc": "포근하고 따뜻한 니트 가디건",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20250212/4780563/4780563_17400192604464_big.jpg?w=1200",
+      "recommended": false,
+      "tags": ["니트", "데일리"]
+    },
+    {
+      "id": 7,
+      "title": "미디 스커트",
+      "desc": "여성스러운 라인의 미디 스커트",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20250805/5292443/5292443_17569697231651_big.jpg?w=1200",
+      "recommended": true,
+      "tags": ["스커트", "페미닌"]
+    },
+    {
+      "id": 8,
+      "title": "후드 티셔츠",
+      "desc": "편안함과 스타일을 동시에",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20221220/2990499/2990499_16947562392087_big.jpg?w=1200",
+      "recommended": false,
+      "tags": ["후드", "캐주얼"]
+    },
+    {
+      "id": 9,
+      "title": "플로럴 원피스",
+      "desc": "봄 분위기에 어울리는 플라워 패턴 원피스",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20250429/5076761/5076761_17471178595322_big.jpg?w=1200",
+      "recommended": true,
+      "tags": ["원피스", "패턴"]
+    },
+    {
+      "id": 10,
+      "title": "체크 셔츠",
+      "desc": "레트로 감성의 체크 패턴 셔츠",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20240521/4143736/4143736_17567131668806_big.jpg?w=1200",
+      "recommended": false,
+      "tags": ["셔츠", "레트로"]
+    },
+    {
+      "id": 11,
+      "title": "롱 부츠",
+      "desc": "겨울에 스타일리시하게 신기 좋은 롱 부츠",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20220913/2785379/2785379_6_big.jpg?w=1200",
+      "recommended": true,
+      "tags": ["부츠", "겨울"]
+    },
+    {
+      "id": 12,
+      "title": "베이직 티셔츠",
+      "desc": "레이어드용으로 딱 좋은 기본 티셔츠",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20250410/5012445/5012445_17485039435881_big.jpg?w=1200",
+      "recommended": false,
+      "tags": ["티셔츠", "베이직"]
+    },
+    {
+      "id": 13,
+      "title": "데님 팬츠",
+      "desc": "유행 없는 스트레이트 핏 데님 팬츠",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20221216/2985719/2985719_1_big.jpg?w=1200",
+      "recommended": true,
+      "tags": ["팬츠", "데님"]
+    },
+    {
+      "id": 14,
+      "title": "패딩 자켓",
+      "desc": "한겨울에도 따뜻한 경량 패딩",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20241115/4618649/4618649_17318944326609_big.jpg?w=1200",
+      "recommended": false,
+      "tags": ["패딩", "겨울"]
+    },
+    {
+      "id": 15,
+      "title": "스니커 부츠",
+      "desc": "운동화와 부츠의 믹스 매치 아이템",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20250801/5287149/5287149_17562573302251_big.jpg?w=1200",
+      "recommended": true,
+      "tags": ["부츠", "스트릿"]
+    },
+    {
+      "id": 16,
+      "title": "숄더백",
+      "desc": "데일리로 활용하기 좋은 심플 숄더백",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20220124/2324898/2324898_17288870720894_big.jpg?w=1200",
+      "recommended": false,
+      "tags": ["가방", "심플"]
+    },
+    {
+      "id": 17,
+      "title": "실크 블라우스",
+      "desc": "고급스러운 무드의 실크 블라우스",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20250212/4781242/4781242_17400341359956_big.jpg?w=1200",
+      "recommended": true,
+      "tags": ["블라우스", "오피스"]
+    },
+    {
+      "id": 18,
+      "title": "비니",
+      "desc": "겨울철 포인트로 좋은 비니",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20250515/5114637/5114637_17484114962161_big.jpg?w=1200",
+      "recommended": false,
+      "tags": ["모자", "겨울"]
+    },
+    {
+      "id": 19,
+      "title": "트레이닝 세트",
+      "desc": "편안하면서도 스타일리시한 세트",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20240426/4091210/4091210_17455505795059_big.jpg?w=1200",
+      "recommended": true,
+      "tags": ["세트", "스포츠", "운동복"]
+    },
+    {
+      "id": 20,
+      "title": "클래식 블레이저",
+      "desc": "격식 있는 자리에도 어울리는 블레이저",
+      "image": "https://image.msscdn.net/thumbnails/images/goods_img/20180205/709191/709191_17567966175458_big.jpg?w=1200",
+      "recommended": false,
+      "tags": ["자켓", "클래식"]
+    }
+  ]
+}
