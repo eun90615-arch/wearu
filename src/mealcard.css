@@ -1,0 +1,68 @@
+.mealsCard{
+    margin: 20px 20px;
+}
+.contents .title-wrap{
+    text-align: center;
+}
+.contents .title-wrap h2{
+    margin: 40px 0 10px;
+    font-size: 22px;
+}
+.contents .title-wrap small{
+    font-size: 16px;
+    font-weight: 400;
+    color: #a3a3a3;
+}
+.meals-text h3{
+    margin: 10px 0 ;
+    font-size: 20px;
+    text-align: left;
+}
+.meals-text .info .tag{
+  padding: 4px 8px; 
+  background: #000;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--white);
+  border-radius: 30px;
+}
+.meals-text .info {
+    margin-bottom: 15px;
+}
+.meals-text .tag-wrap{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 8px;
+}
+.meals-text .badge{
+  padding: 4px 8px; 
+  background: #e41414;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--white);
+  border-radius: 30px;
+  margin-right: 10px;
+}
+.meals-text .desc{
+    text-align: left;
+}
+figure{
+    width: 100%;
+    height: 300px;
+    border-radius: 30px;
+    overflow: hidden;
+}
+figure img{
+    width: 100%;
+}
+
+.btn-area{text-align: center;}
+.btn-area button{
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #666;
+    background: #eee;
+    border-radius: 40px;
+}
